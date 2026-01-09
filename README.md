@@ -2,7 +2,7 @@
 
 # IH-Korupsi: Anti-Corruption Data Forensic Toolkit
 
-**IH-Korupsi** (short for **Indikasi Hukum Korupsi** or *Legal Indication of Corruption*) is an open-source Python toolkit designed to detect financial anomalies and potential corruption using pure mathematical methods **without AI/Machine Learning**.
+**IH-Korupsi** (short for **Intelligent Hunting (IH) - Korupsi**) is an open-source Python toolkit designed to detect financial anomalies and potential corruption using pure mathematical methods **without AI/Machine Learning**.
 
 Developed by **OurCreativity Edisi Coding** to support transparency and financial accountability worldwide.
 

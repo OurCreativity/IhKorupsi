@@ -39,7 +39,7 @@ class ReportGenerator:
 <body>
     <header>
         <h1>IH-Korupsi Report</h1>
-        <p>Indikasi Hukum Korupsi - Forensic Data Toolkit</p>
+        <p>Intelligent Hunting (IH) - Korupsi - Forensic Data Toolkit</p>
         <p>Analysis Time: {timestamp}</p>
     </header>
 
